@@ -3,7 +3,7 @@ Hello. My name is Murilo, it's a pleasure to meet ya!
 
     <script>
 
-    age = 16;
+    age = 17;
     IsAStarter = "kinda yes, kinda no";
     
     if ( IsAStarter == string) {
